@@ -1,0 +1,3 @@
+[submodule "MultiMarkdown-4"]
+	path = MultiMarkdown-4
+	url = https://github.com/haldean/MultiMarkdown-4.git
